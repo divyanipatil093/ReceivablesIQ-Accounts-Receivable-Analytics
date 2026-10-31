@@ -110,7 +110,7 @@ ReceivablesIQ/
 │   └── Dashboard screenshots
 │
 ├── Images/
-│   └── Project images and logo
+│   └── logo, bgimg
 │
 └── README.md
 ```
